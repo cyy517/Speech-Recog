@@ -8,7 +8,6 @@ Required Utils:
 Required Packages:
   speechRecognition
   pyAudio
-  word
+  
 
 More to be added...
-  
